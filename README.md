@@ -7,7 +7,7 @@ Following a  [presentation](https://www.youtube.com/watch?v=3aJI1ABdjQk&feature=
 ## Run
 
 ```
-cd ruby_blockchain
+cd ruby-blockchain
 ruby token.rb PEER_PORT
 ```
 
